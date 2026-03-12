@@ -31,6 +31,7 @@ const products = [
   {id:30,name:"Cherry",category:"fruits",price:150,description:"Cherry is a small, juicy fruit loved for its sweet-tart flavor and bright, vibrant color.",image:"./res/Fruits/cherry.jpg"},
   {id:31,name:"Kiwi",category:"fruits",price:300,description:"Kiwi is a tangy, nutrient-rich fruit known for its vibrant green flesh and refreshing flavor.",image:"./res/Fruits/kiwi.jpg"},
   {id:32,name:"Aloe Vera",category:"herbs",price:100,description:"Aloe vera is a soothing, succulent plant valued for its healing gel and skin-nourishing benefits.",image:"./res/Herbs/aloevera.jpg"},
+  {id:33,name:"Lemon",category:"fruits",price:5,description:"Lemon is a bright, tangy citrus fruit known for its refreshing flavor and high vitamin C content.",image:"./res/Fruits/lemons.jpg"},
 ];
 
 // ------------------- Cart Helpers -------------------
